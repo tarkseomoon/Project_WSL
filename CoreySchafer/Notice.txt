@@ -1,0 +1,2 @@
+Corey Schafer's Code_snippets
+https://github.com/CoreyMSchafer/code_snippets/tree/master/Generators

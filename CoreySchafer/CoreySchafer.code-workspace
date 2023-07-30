@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../PandasUserGuide"
+	},
+	{
+		"path": "../StackOverFlow"
+	}
+],
+  "settings": {}
+}
