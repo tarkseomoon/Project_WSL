@@ -35,12 +35,18 @@ function test(){
 * You can add text within a collapsed section.
 
 * You can add an image or a code block, too.
+ 
 
 ```ruby
     puts "Hello World"
 ```
+</details> 
 
-</details>  
+
+---
+> If we pull together and commit ourselves, then we can push through anything.
+- Mona the Octocat
+
 
 The visualization of the color is only supported in issues, pull requests, and discussions.  
 ```The background color is `#0969DA` for light mode.```
@@ -69,4 +75,4 @@ To split <span>$</span>100 in half, we calculate $100/2$
 
 ### Autolinked reference and URLs
 
-Visit https;//github.com
+Visit https://github.com
